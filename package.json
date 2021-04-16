@@ -1,0 +1,16 @@
+{
+  "name": "devromi",
+  "version": "1.0.0",
+  "description": "Backend Bootcamp Ramadhan 1442",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Romi",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.14.2",
+    "fastify-static": "^4.0.1"
+  }
+}
